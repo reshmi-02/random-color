@@ -1,0 +1,39 @@
+@media(min-width:320px){
+    .row{
+        width:90%;
+        padding: 80px 30px;
+    }
+    .cont{
+        padding: 150px 30px;
+    }
+    .pad{
+        padding-left: 50px;
+    }
+    
+}
+
+@media(min-width:660px){
+    .row{
+        width:50%;
+        padding: 100px 50px;
+    }
+    .cont{
+        padding: 200px 20px;
+    }
+    .pad{
+        padding-left: 90px;
+    }
+}
+
+@media(min-width:1000px){
+    .row{
+        width:30%;
+        padding: 100px 50px;
+    }
+    .cont{
+        padding: 200px 20px;
+    }
+    .pad{
+        padding-left: 90px;
+    }
+}
